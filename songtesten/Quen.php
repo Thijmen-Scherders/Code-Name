@@ -7,7 +7,7 @@
 </head>
 
 <body>
-    <img src="" alt="">
+    <img src="img/Queen.jpg" alt="">
     <p>s this the real life?
     Is this just fantasy?
     Caught in a landside,
