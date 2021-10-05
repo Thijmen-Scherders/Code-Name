@@ -3,11 +3,11 @@
 
 
 <head>
-    <title>Toolshed / Tools</title>
-    <?php require_once '../head.php'; ?>
+    
 </head>
 
 <body>
+    <img src="" alt="">
     <p>s this the real life?
     Is this just fantasy?
     Caught in a landside,
