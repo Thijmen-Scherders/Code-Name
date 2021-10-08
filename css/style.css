@@ -1,0 +1,21 @@
+.header{
+    width: 80%;
+    background-color: rgb(127, 127, 228);
+    margin: auto;
+    color: white;
+}
+.link{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 60%;
+    margin: auto;
+    color: white;
+}
+a:link, a:visited {
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
