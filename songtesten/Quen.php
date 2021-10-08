@@ -8,7 +8,7 @@
 
 <body>
     <img src="img/Queen.jpg" alt="">
-    <p>s this the real life?
+    <p> this the real life?
     Is this just fantasy?
     Caught in a landside,
     No escape from reality
