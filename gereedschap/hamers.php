@@ -61,6 +61,6 @@ Hamer die als wapen gebruikt wordt.
 terugslagvrije hamer (dead blow)
 Een hamer gevuld met hagel (lood).</p>
 
-<img src="images/hamer.png" alt="hamer" width="500px">
+<img src="../images/hamer.png" alt="hamer" width="500px">
 </body>
 </html>
