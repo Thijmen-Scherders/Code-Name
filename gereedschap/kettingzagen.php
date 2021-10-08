@@ -14,6 +14,6 @@ Zaagblad: het zaagblad of "zwaard" zit aan de motorbehuizing vastgemaakt. Het za
 Zaagketting: een schakelketting met zaagtanden, ook wel beitels genoemd. Een zaagketting bestaat uit drie onderdelen: de zaagtand, de dieptesteller en de aandrijfschakel. Deze zijn met elkaar verbonden door verbindingsschakels. De zaagtand doet het werk. Deze beitelt het hout uit de zaagsnede. De dieptesteller bepaalt de diepte waarmee de zaagtand door het hout gaat. Staat deze te hoog afgesteld neemt de zaagtand bijna geen hout mee. Staat deze te diep afgesteld kan de zaagtand vastlopen in het hout (ook wel 'agressief' genoemd). De aandrijfschakel loopt door de groef van het zaagblad. Hieruit haalt hij olie om de ketting te smeren.
 Een kettingzaag is onnauwkeurig en levert een vrij brede en rafelige zaagsnede op, maar is door zijn handzaamheid en lange zaagblad uitermate geschikt om gehele bomen om te zagen of tot brandhout te verwerken. De omgezaagde bomen worden daarna soms in zagerijen met lintzagen of cirkelzagen tot planken verwerkt, omdat deze een nettere zaagsnede geven.</p>
 
-<img src="images/kettingzaag.png" alt="kettingzaag">
+<img src="../images/kettingzaag.png" alt="kettingzaag">
 </body>
 </html>

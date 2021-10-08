@@ -15,5 +15,7 @@
             echo "<br>";
         }
     ?>
+
+<img src="../images/jamesbond.jpg" alt="roger moore">
 </body>
 </html>

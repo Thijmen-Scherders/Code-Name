@@ -13,6 +13,6 @@ Er bestaan verschillende soorten cirkelzagen. Je kiest voor een handcirkelzaag, 
 
 Ben je op zoek naar meer informatie of de een overzicht van cirkelzagen? Neem dan een kijkje op Toolstation. Toolstation is een van de snelst groeiende multi-channel winkels voor gereedschappen van Nederland.</p>
 
-<img src="images/cirkelzaag.png" alt="cirkelzaag">
+<img src="../images/cirkelzaag.png" alt="cirkelzaag">
 </body>
 </html>
