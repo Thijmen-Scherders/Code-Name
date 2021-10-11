@@ -7,6 +7,7 @@
 </head>
 
 <body>
+    <div class="queen">
     <img src="../images/queen.jpg" alt="">
     <p>s this the real life?
     Is this just fantasy?
@@ -68,7 +69,7 @@
 </p>
         
     
-                
+</div>         
 </body>
 
 </html>

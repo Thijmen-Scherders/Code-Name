@@ -12,7 +12,7 @@
     <a href="https://www.imdb.com/">imdb.com</a>
     <img src="../images/videoland.png" alt="Foto videoland">
     <a href="https://www.videoland.com/nl/">Videoland</a>
-    <img src="../images/nlfilm.png" alt="Foto filmnl">
+    <img src="images/nlfilm.png" alt="Foto filmnl">
     <a href="https://www.film.nl/">Film.nl</a>
 </body>
 </html>

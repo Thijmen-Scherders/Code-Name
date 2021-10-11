@@ -10,6 +10,7 @@
 </head>
 
 <body>
+    <div class="queen">
     <?php require_once 'layouts/header.php'; ?>
     <img src="../images/quen.jpg" alt="">
     <p>She keeps her Moet et Chandon
@@ -65,7 +66,7 @@ You wanna try
 </p>
         
     
-                
+</div>
 </body>
 
 </html>
