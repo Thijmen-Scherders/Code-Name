@@ -7,13 +7,8 @@
 </head>
 
 <body>
-<<<<<<< Updated upstream
-    <img src="img/Queen.jpg" alt="">
-    <p> this the real life?
-=======
     <img src="../images/queen.jpg" alt="">
     <p>s this the real life?
->>>>>>> Stashed changes
     Is this just fantasy?
     Caught in a landside,
     No escape from reality
