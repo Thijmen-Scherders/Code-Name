@@ -34,3 +34,30 @@ body{
 .mybaby{
     background-color: aqua;
 }
+
+.imbd{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.videoland{
+    display: flex;
+    flex-direction: column;
+    margin-left: 40px;
+}
+
+.nlfilm{
+    display: flex;
+    flex-direction: column;
+    margin-left: 40px;
+}
+
+.link{
+    width: 80%; 
+}
+
+.p{
+    display: flex;
+    justify-content: center;
+}
