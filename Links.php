@@ -11,14 +11,6 @@
     <?php require_once 'layouts/header.php'; ?>  
     <div class="p">
     <p>Dit is een site waar je wat verschillende linkjes kan kiezen voor films</p>
-<<<<<<< HEAD
-    <img src="../images/imdb.png" alt="Foto imdb">
-    <a href="https://www.imdb.com/">imdb.com</a>
-    <img src="../images/videoland.png" alt="Foto videoland">
-    <a href="https://www.videoland.com/nl/">Videoland</a>
-    <img src="images/nlfilm.png" alt="Foto filmnl">
-    <a href="https://www.film.nl/">Film.nl</a>
-=======
     </div>
    
    <div class="link">
@@ -35,7 +27,6 @@
             <a href="https://www.film.nl/">Film.nl</a>
         </div>
     </div>
->>>>>>> cf6a3ff1a57256e7d689fccced1c9f7e25d53cb3
 </body>
 </html>
 
