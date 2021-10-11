@@ -1,8 +1,12 @@
 .header{
     width: 80%;
-    background-color: rgb(127, 127, 228);
-    margin: auto;
-    color: white;
+    background-color: lightgrey;
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+}
+header{
+    background-color:darkgray;
 }
 .link{
     display: flex;
@@ -10,12 +14,20 @@
     align-items: center;
     width: 60%;
     margin: auto;
-    color: white;
+    color: black;
 }
 a:link, a:visited {
-    color: white;
+    color: black;
     padding: 14px 25px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
   }
+body{
+    background-color: white;
+}
+.wrapper{
+    width: 80%;
+    margin: auto;
+    background-color: lightgrey;
+}
