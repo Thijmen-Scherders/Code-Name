@@ -3,10 +3,14 @@
 
 
 <head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="css/style.css">
     
 </head>
 
 <body>
+    <?php require_once 'layouts/header.php'; ?>
     <img src="../images/quen.jpg" alt="">
     <p>She keeps her Moet et Chandon
 In her pretty cabinet
