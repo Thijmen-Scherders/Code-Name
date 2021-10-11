@@ -5,13 +5,17 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="../css/style.css">
     
 </head>
 
 <body>
+<<<<<<< Updated upstream:songtesten/queen.php
     <div class="queen">
     <?php require_once 'layouts/header.php'; ?>
+=======
+    <?php require_once '../layouts/header.php'; ?>
+>>>>>>> Stashed changes:songteksten/queen.php
     <img src="../images/quen.jpg" alt="">
     <p>She keeps her Moet et Chandon
 In her pretty cabinet

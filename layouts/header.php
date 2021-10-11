@@ -4,14 +4,49 @@
 <link rel="stylesheet" href="css/style.css">
 </head>
 <header>
-<div class="header">
-    <h3>Code-Name</h3>
-    <nav>
-        <div class="link">
-            <a href="#">films</a>
-            <a href="#">Songteksten</a>
-            <a href="#">gereedschap</a>
-        </div>
-    </nav>
+<div id="demo">
+  <div class="wrapper">
+    <div class="content">
+      <ul>
+        <a href="../films/jamesbond.php">
+          <li>James Bond</li>
+        </a>
+      </ul>
+    </div>
+    <div class="parent">Films</div>
+  </div>
+
+  <div class="wrapper">
+    <div class="content">
+      <ul>
+        <a href="../songteksten/mybaby.php">
+          <li>My Baby - Uprising</li>
+        </a>
+        <a href="../songteksten/queen.php">
+          <li>Queen - Bohemian Rhapsody</li>
+        </a>
+        <a href="../songteksten/Quen.php">
+          <li>Queen - Killer Queen</li>
+        </a>
+      </ul>
+    </div>
+    <div class="parent">Songteksten</div>
 </div>
+    <div class="wrapper">
+    <div class="content">
+      <ul>
+        <a href="../gereedschap/cirkelzagen.php">
+          <li>Cirkelzagen</li>
+        </a>
+        <a href="../gereedschap/hamers.php">
+          <li>Hamers</li>
+        </a>
+        <a href="../gereedschap/kettingzagen.php.php">
+          <li>Kettingzagen</li>
+        </a>
+      </ul>
+    </div>
+    <div class="parent">Gereedschap</div>
+  
+  </div>
 </header>

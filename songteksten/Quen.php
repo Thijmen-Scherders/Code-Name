@@ -1,5 +1,6 @@
 <!doctype html>
 <html lang="nl">
+<link rel="stylesheet" href="../css/style.css">
 
 
 <head>
@@ -7,7 +8,11 @@
 </head>
 
 <body>
+<<<<<<< Updated upstream:songtesten/Quen.php
     <div class="queen">
+=======
+<?php require_once '../layouts/header.php'; ?>
+>>>>>>> Stashed changes:songteksten/Quen.php
     <img src="../images/queen.jpg" alt="">
     <p>s this the real life?
     Is this just fantasy?
