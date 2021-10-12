@@ -204,21 +204,17 @@ header{
 }
 
 /* einde nav */
-.muse{
-  display: flex;
- flex-direction: column;
-}
+
 
 .uprise{
   display: flex;
   justify-content: center;
 }
 
-.songtext{
- display: flex;
- flex-direction: column;
-}   
 
 .orangepage{
   background-color: orange;
+}
+.redpage{
+  background-color: red;
 }
