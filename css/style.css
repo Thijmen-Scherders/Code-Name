@@ -63,7 +63,9 @@ body{
 .bluepage{
     background-color:dodgerblue;
 }
-
+.skywalker{
+  background-color: green;
+}
 /* nav */
 
 #demo {
@@ -147,6 +149,7 @@ body{
   border-bottom-left-radius: 5px;
   border-bottom-right-radius: 5px;
 }
+
 
 #demo .content ul a {
   text-decoration: none;

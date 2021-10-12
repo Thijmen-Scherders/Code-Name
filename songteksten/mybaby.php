@@ -10,6 +10,7 @@
 </head>
 
 <body>
+    <div class="wrapper">
 <?php require_once '../layouts/header.php'; ?>
 <div class="mybaby">  
     <img src="../images/mybaby.jpg" alt="">
@@ -50,6 +51,7 @@
 </p>
         
     
+</div>
 </div>               
 </body>
 
