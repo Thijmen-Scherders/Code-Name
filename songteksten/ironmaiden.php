@@ -17,7 +17,7 @@
         <img src="../images/trans.jpg" alt="">
     </div>
         <div class="songtext">
-             <p>
+             <p><b>
              [Verse 1: Tom]
             Anne Boleyn, she kept a tin
             Which all her hopes and dreams where in
@@ -124,7 +124,7 @@
                 Who is your lover?
                 I couldn't tell, tell, tell
                 When will this stop?
-            </p>
+                </b></p>
         </div>
         
     

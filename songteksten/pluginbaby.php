@@ -17,7 +17,7 @@
         <img src="../images/plugin.jpg" alt="">
     </div>
         <div class="songtext">
-             <p>
+             <p><b>
              Plug In Baby"
 
             I've exposed your lies, baby
@@ -50,7 +50,7 @@
             Mine is gone
             And I've been in trouble
 
-            </p>
+            </b></p>
         </div>
         
     
