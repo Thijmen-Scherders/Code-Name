@@ -9,7 +9,7 @@
 
 </head>
 
-<body class="orangepage">
+<body class="redpage">
  
 <?php require_once '../layouts/header.php'; ?>
 <div class="muse">  
@@ -48,12 +48,11 @@
             Is tired of living
             
 
-            
-                [Outro]
-                And I've seen your loving
-                Mine is gone
-                And I've been in trouble
-                Wooaahhh
+            [Outro]
+            And I've seen your loving
+            Mine is gone
+            And I've been in trouble
+            Wooaahhh
 
             </b></p>
         </div>
