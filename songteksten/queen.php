@@ -10,12 +10,9 @@
 </head>
 
 <body>
-<<<<<<< Updated upstream:songtesten/queen.php
     <div class="queen">
-    <?php require_once 'layouts/header.php'; ?>
-=======
+    
     <?php require_once '../layouts/header.php'; ?>
->>>>>>> Stashed changes:songteksten/queen.php
     <img src="../images/quen.jpg" alt="">
     <p>She keeps her Moet et Chandon
 In her pretty cabinet

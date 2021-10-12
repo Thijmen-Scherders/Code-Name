@@ -66,6 +66,14 @@ body{
 .skywalker{
   background-color: green;
 }
+
+.darth{
+  background-color: yellow;
+}
+
+.dalton{
+  background-color: green;
+}
 /* nav */
 
 #demo {
@@ -177,8 +185,6 @@ body{
 }
 
 /* einde nav */
-
-
 .muse{
   display: flex;
  flex-direction: column;
