@@ -7,9 +7,9 @@
     
 </head>
 
-<body>
+<body class="bluepage">
 
-    <div class="queen">
+    
 
 <?php require_once '../layouts/header.php'; ?>
 

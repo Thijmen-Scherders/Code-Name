@@ -9,8 +9,8 @@
     
 </head>
 
-<body>
-    <div class="queen">
+<body class="bluepage">
+    
     
     <?php require_once '../layouts/header.php'; ?>
     <img src="../images/quen.jpg" alt="">
