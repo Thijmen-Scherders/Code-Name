@@ -9,8 +9,8 @@
 
 </head>
 
-<body>
-    <div class="wrapper">
+<body class="orangepage">
+    
 <?php require_once '../layouts/header.php'; ?>
 <div class="mybaby">  
     <img src="../images/mybaby.jpg" alt="">

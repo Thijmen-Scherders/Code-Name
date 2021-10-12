@@ -63,17 +63,15 @@ body{
 .bluepage{
     background-color:dodgerblue;
 }
-.skywalker{
+.greenpage{
   background-color: green;
 }
 
-.darth{
+.yellowpage{
   background-color: yellow;
 }
 
-.dalton{
-  background-color: green;
-}
+
 /* nav */
 header{
     background-color: lightgrey;
