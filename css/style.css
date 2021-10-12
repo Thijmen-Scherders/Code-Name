@@ -21,9 +21,9 @@ body{
     background-color: white;
 }
 .wrapper{
-    width: 80%;
+    width: 60%;
     margin: auto;
-    background-color: lightgrey;
+    background-color: white;
 }
 .mybaby{
     background-color: orange;
@@ -75,6 +75,27 @@ body{
   background-color: green;
 }
 /* nav */
+header{
+    background-color: lightgrey;
+    -webkit-box-shadow: 0 8px 6px -6px #999;
+    -moz-box-shadow: 0 8px 6px -6px #999;
+         box-shadow: 0 8px 6px -6px #999;
+    padding: 25px;
+    display: flex;
+    justify-content: end;
+    margin: 20px;
+}
+.links{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    justify-content: end;
+}
+.logo{
+    
+    display: flex;
+    justify-content: start;
+}
 
 #demo {
   margin: 30px 0 50px 0;
