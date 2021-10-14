@@ -11,7 +11,7 @@
     <div class="wrapper">
         <div class="content">
         <ul>
-            <a href=".../films/jamesbond.php">
+            <a href="<?php echo $base_url; ?>/films/jamesbond.php">
             <li>James Bond</li>
             </a>
         </ul>
@@ -22,13 +22,13 @@
     <div class="wrapper">
         <div class="content">
         <ul>
-            <a href=".../songteksten/mybaby.php">
+            <a href="<?php echo $base_url; ?>/songteksten/mybaby.php">
             <li>My Baby - Uprising</li>
             </a>
-            <a href=".../songteksten/queen.php">
+            <a href="<?php echo $base_url; ?>/songteksten/queen.php">
             <li>Queen - Bohemian Rhapsody</li>
             </a>
-            <a href=".../songteksten/Quen.php">
+            <a href="<?php echo $base_url; ?>/songteksten/Quen.php">
             <li>Queen - Killer Queen</li>
             </a>
         </ul>
@@ -38,13 +38,13 @@
         <div class="wrapper">
         <div class="content">
         <ul>
-            <a href=".../gereedschap/cirkelzagen.php">
+            <a href="<?php echo $base_url; ?>/gereedschap/cirkelzagen.php">
             <li>Cirkelzagen</li>
             </a>
-            <a href=".../gereedschap/hamers.php">
+            <a href="<?php echo $base_url; ?>/gereedschap/hamers.php">
             <li>Hamers</li>
             </a>
-            <a href=".../gereedschap/kettingzagen.php.php">
+            <a href="<?php echo $base_url; ?>/gereedschap/kettingzagen.php.php">
             <li>Kettingzagen</li>
             </a>
         </ul>

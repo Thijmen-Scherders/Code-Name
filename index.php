@@ -3,7 +3,7 @@
 
 
 </html>
-<body>
+<body class="mainpage">
 <?php require_once 'layouts/header.php'; ?>
 <div class="wrapper">
     <div class="datum_tijd">
@@ -15,12 +15,11 @@
 
     </div>
     <div class="contactinformatie">
-    <p>Ms Philadelphia Clay<br>
-5645 Harvest Avenue<br>
-Chickaloon, Connecticut,<br> 06510-4485,<br> US
-Phone:(203) 296-9219<br>
-Email Address:philcl@arvinmeritor.info</p>
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat dicta accusamus autem dolor veniam. Odio fugit id nesciunt at modi non consequatur quidem nemo. Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem, harum dolores laudantium quia eius maiores perferendis! In accusamus nostrum cupiditate eaque! Numquam incidunt, odit laborum accusantium placeat provident cupiditate sequi.</p>
     </div>
+
+  </div>
+</div>
 </div>
 
 </body>

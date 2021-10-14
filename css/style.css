@@ -237,3 +237,16 @@ p{
   font-weight: bold;
   font-size: 25px;
 }
+.contactinformatie{
+  background-image: url("../images/contact1.jpg");
+  color: white;
+  padding: 50px;
+  margin: 50px;
+  border-radius: 15px;
+}
+.mainpage{
+  background-image: url("../images/pexels-philippe-donn-1169754.jpg");
+}
+.wrapper{
+  background-image: url("../images/pexels-philippe-donn-1169754.jpg");
+}
