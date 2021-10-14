@@ -9,10 +9,16 @@
     
 </head>
 
+<<<<<<< Updated upstream
 <body class="bluepage">
     
     
     <?php require_once '../layouts/header.php'; ?>
+=======
+<body>
+    <div class="queen">
+    <?php require_once 'layouts/header.php'; ?>
+>>>>>>> Stashed changes
     <img src="../images/quen.jpg" alt="">
     <p>She keeps her Moet et Chandon
 In her pretty cabinet
