@@ -17,7 +17,7 @@
         <img src="../images/muse-uprising.jpg" alt="">
     </div>
         <div class="songtext">
-             <p>Paranoia is in bloom
+             <p>Paranoia is  xxxxxxxxxxxxxxxxxxxxxxxxxxx in bloom
             The PR transmissions will resume
             They'll try to push drugs that keep us all dumbed down
             And hope that we will never see the truth around
