@@ -8,9 +8,9 @@
     <link rel="stylesheet" href="../css/style.css">
 </head>
 <body>
-    <header>
+
         <?php require_once '../layouts/header.php'; ?>
-    </header>
+
     <p>Een kettingzaag bestaat uit drie delen:
 
 Motor: de benzinemotor moet gestart worden met een startkoord (als bij een motormaaier). De motor drijft een kettingrondsel aan, dat zorgt dat de ketting gaat ronddraaien. Bij een elektrische kettingzaag dient men op een knop te drukken om de motor te starten.

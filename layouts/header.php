@@ -4,7 +4,7 @@
 <link rel="stylesheet" href="css/style.css">
 </head>
 <header>
-    <div class="logo">   <a href="/code-Name/index.php"><img src="../images/logo.png" alt="logo" width='150px' height="150px"></a></div>
+    <div class="logo">   <a href="/code-Name/index/index.php"><img src="../images/logo.png" alt="logo" width='150px' height="150px"></a></div>
 <div class="links">
 
     <div id="demo">
@@ -44,7 +44,7 @@
             <a href="../gereedschap/hamers.php">
             <li>Hamers</li>
             </a>
-            <a href="../gereedschap/kettingzagen.php.php">
+            <a href="../gereedschap/kettingzagen.php">
             <li>Kettingzagen</li>
             </a>
         </ul>
