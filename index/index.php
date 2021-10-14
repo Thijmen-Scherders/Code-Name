@@ -3,16 +3,11 @@
 
 
 </html>
-<<<<<<< Updated upstream:index.php
-<body class="mainpage">
-<?php require_once 'layouts/header.php'; ?>
-=======
 <head>
     <link rel="stylesheet" href="../css/style.css">
 </head>
-<body>
+<body class="mainpage">
 <?php require_once '../layouts/header.php'; ?>
->>>>>>> Stashed changes:index/index.php
 <div class="wrapper">
     <div class="datum_tijd">
         <iframe src="https://free.timeanddate.com/clock/i80s3idm/n1297/tlaw14/fn6/fs16/fcfff/tc000/ftb/bas2/bat1/bacfff/pa8/tt0/tw1/th1/ta1/tb4" frameborder="0" width="207" height="58"></iframe>
