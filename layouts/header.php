@@ -11,11 +11,7 @@
     <div class="wrapper">
         <div class="content">
         <ul>
-<<<<<<< Updated upstream
-            <a href="<?php echo $base_url; ?>/films/jamesbond.php">
-=======
             <a href="../films/jamesbond.php">
->>>>>>> Stashed changes
             <li>James Bond</li>
             </a>
         </ul>
@@ -26,15 +22,6 @@
     <div class="wrapper">
         <div class="content">
         <ul>
-<<<<<<< Updated upstream
-            <a href="<?php echo $base_url; ?>/songteksten/mybaby.php">
-            <li>My Baby - Uprising</li>
-            </a>
-            <a href="<?php echo $base_url; ?>/songteksten/queen.php">
-            <li>Queen - Bohemian Rhapsody</li>
-            </a>
-            <a href="<?php echo $base_url; ?>/songteksten/Quen.php">
-=======
             <a href="../songteksten/mybaby.php">
             <li>My Baby - Uprising</li>
             </a>
@@ -42,7 +29,6 @@
             <li>Queen - Bohemian Rhapsody</li>
             </a>
             <a href="../songteksten/Quen.php">
->>>>>>> Stashed changes
             <li>Queen - Killer Queen</li>
             </a>
         </ul>
@@ -52,15 +38,6 @@
         <div class="wrapper">
         <div class="content">
         <ul>
-<<<<<<< Updated upstream
-            <a href="<?php echo $base_url; ?>/gereedschap/cirkelzagen.php">
-            <li>Cirkelzagen</li>
-            </a>
-            <a href="<?php echo $base_url; ?>/gereedschap/hamers.php">
-            <li>Hamers</li>
-            </a>
-            <a href="<?php echo $base_url; ?>/gereedschap/kettingzagen.php.php">
-=======
             <a href="../gereedschap/cirkelzagen.php">
             <li>Cirkelzagen</li>
             </a>
@@ -68,7 +45,6 @@
             <li>Hamers</li>
             </a>
             <a href="../gereedschap/kettingzagen.php.php">
->>>>>>> Stashed changes
             <li>Kettingzagen</li>
             </a>
         </ul>
