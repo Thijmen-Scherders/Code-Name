@@ -61,10 +61,10 @@ body{
 }
 
 .bluepage{
-    background-color:dodgerblue;
+    background-color: #4682b4;
 }
 .greenpage{
-  background-color: green;
+  background-color:#317f43;
 }
 
 .yellowpage{
@@ -213,7 +213,7 @@ header{
 
 
 .orangepage{
-  background-color: orange;
+  background-color: #b97d4b;
 }
 .datum_tijd {
     height: 100px;
@@ -229,6 +229,11 @@ header{
     text-shadow: 0 0 3px #fff;
   }
 .redpage{
-  background-color: red;
+  background-color: #cc0000;
 }
 
+
+p{
+  font-weight: bold;
+  font-size: 25px;
+}
