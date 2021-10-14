@@ -232,3 +232,8 @@ header{
   background-color: #cc0000;
 }
 
+
+p{
+  font-weight: bold;
+  font-size: 25px;
+}
