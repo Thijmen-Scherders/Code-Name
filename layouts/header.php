@@ -4,14 +4,14 @@
 <link rel="stylesheet" href="css/style.css">
 </head>
 <header>
-    <div class="logo">   <a href="/code-Name/index.php"><img src="images/logo.png" alt="logo" width='150px' height="150px"></a></div>
+    <div class="logo">   <a href="/code-Name/index.php"><img src="../images/logo.png" alt="logo" width='150px' height="150px"></a></div>
 <div class="links">
 
     <div id="demo">
     <div class="wrapper">
         <div class="content">
         <ul>
-            <a href="<?php echo $base_url; ?>/films/jamesbond.php">
+            <a href="../films/jamesbond.php">
             <li>James Bond</li>
             </a>
         </ul>
@@ -22,13 +22,13 @@
     <div class="wrapper">
         <div class="content">
         <ul>
-            <a href="<?php echo $base_url; ?>/songteksten/mybaby.php">
+            <a href="../songteksten/mybaby.php">
             <li>My Baby - Uprising</li>
             </a>
-            <a href="<?php echo $base_url; ?>/songteksten/queen.php">
+            <a href="../songteksten/queen.php">
             <li>Queen - Bohemian Rhapsody</li>
             </a>
-            <a href="<?php echo $base_url; ?>/songteksten/Quen.php">
+            <a href="../songteksten/Quen.php">
             <li>Queen - Killer Queen</li>
             </a>
         </ul>
@@ -38,13 +38,13 @@
         <div class="wrapper">
         <div class="content">
         <ul>
-            <a href="<?php echo $base_url; ?>/gereedschap/cirkelzagen.php">
+            <a href="../gereedschap/cirkelzagen.php">
             <li>Cirkelzagen</li>
             </a>
-            <a href="<?php echo $base_url; ?>/gereedschap/hamers.php">
+            <a href="../gereedschap/hamers.php">
             <li>Hamers</li>
             </a>
-            <a href="<?php echo $base_url; ?>/gereedschap/kettingzagen.php.php">
+            <a href="../gereedschap/kettingzagen.php.php">
             <li>Kettingzagen</li>
             </a>
         </ul>
