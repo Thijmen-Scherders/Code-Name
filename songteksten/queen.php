@@ -14,6 +14,10 @@
     <div class="container">
     <div class="queen">
     <img src="../images/quen.jpg" alt="">
+    <audio controls autoplay>
+  <source src="../mp3/queen.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
     <p>She keeps her Moet et Chandon
 In her pretty cabinet
 "Let them eat cake", she says
