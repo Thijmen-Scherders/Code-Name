@@ -85,6 +85,7 @@ header{
     display: flex;
     justify-content: end;
     margin: 20px;
+    border-radius: 15px;
 }
 .links{
     width: 80%;
@@ -228,7 +229,7 @@ header{
     color: #eee;
     text-align: center;
     border-radius: 15px;
-    box-shadow: 0 0 7px #222;
+    box-shadow: 0 0 7px rgb(0, 0, 0);
     text-shadow: 0 0 3px #fff;
   }
 .redpage{
@@ -244,12 +245,43 @@ p{
   background-image: url("../images/contact1.jpg");
   color: white;
   padding: 50px;
-  margin: 50px;
+  margin: 150px;
   border-radius: 15px;
+
 }
 .mainpage{
   background-image: url("../images/pexels-philippe-donn-1169754.jpg");
 }
 .wrapper{
   background-image: url("../images/pexels-philippe-donn-1169754.jpg");
+}
+.persons{
+  background: #222;
+  color: white;
+  border-radius: 15px;
+  padding: 15px;
+  display: flex;
+  justify-items: baseline;
+  margin: 150px;
+}
+.person1{
+  display: flex;
+  justify-content: baseline;
+}
+.person2{
+  display: flex;
+  justify-content: baseline;
+}
+.person3{
+  display: flex;
+  justify-content: baseline;
+}
+.contact{
+  background: #222;
+  color: white;
+  border-radius: 15px;
+  padding: 15px;
+  display: flex;
+  justify-items: baseline;
+  margin: 150px;
 }
