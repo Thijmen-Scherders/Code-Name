@@ -56,5 +56,8 @@
 </div>         
 </div>      
 </body>
+<footer>
+<?php require_once '../layouts/footer.php'; ?>
+</footer>
 
 </html>

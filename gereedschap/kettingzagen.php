@@ -21,4 +21,7 @@ Zaagketting: een schakelketting met zaagtanden, ook wel beitels genoemd. Een zaa
 Een kettingzaag is onnauwkeurig en levert een vrij brede en rafelige zaagsnede op, maar is door zijn handzaamheid en lange zaagblad uitermate geschikt om gehele bomen om te zagen of tot brandhout te verwerken. De omgezaagde bomen worden daarna soms in zagerijen met lintzagen of cirkelzagen tot planken verwerkt, omdat deze een nettere zaagsnede geven.</p>
 </div>
 </body>
+<footer>
+<?php require_once '../layouts/footer.php'; ?>
+</footer>
 </html>

@@ -68,4 +68,7 @@ terugslagvrije hamer (dead blow)
 Een hamer gevuld met hagel (lood).</p>
 </div>
 </body>
+<footer>
+<?php require_once '../layouts/footer.php'; ?>
+</footer>
 </html>
