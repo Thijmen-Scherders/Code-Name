@@ -7,15 +7,15 @@
     
 </head>
 
-
 <body class="bluepage">
 
     
 
 <?php require_once '../layouts/header.php'; ?>
 
-
-
+<body>
+    <div class="container">
+    <div class="queen">
     <img src="../images/queen.jpg" alt="">
     <p>s this the real life?
     Is this just fantasy?
@@ -78,6 +78,7 @@
         
     
 </div>         
+</div>
 </body>
 
 </html>

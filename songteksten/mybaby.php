@@ -12,7 +12,8 @@
 <body class="orangepage">
     
 <?php require_once '../layouts/header.php'; ?>
-<div class="mybaby">  
+<div class="container">
+
     <img src="../images/mybaby.jpg" alt="">
     <p>Allow me in your tub
     Just allow me in your club
@@ -51,8 +52,9 @@
 </p>
         
     
-</div>
-</div>               
+
+</div>         
+</div>      
 </body>
 
 </html>

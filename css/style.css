@@ -25,13 +25,8 @@ body{
     margin: auto;
     background-color: white;
 }
-.mybaby{
-    background-color: orange;
-}
-.queen{
-    background-color: blue;
-    
-}
+
+
 .snor{
   display: flex;
   justify-content: center;
@@ -208,6 +203,11 @@ header{
 }
 
 /* einde nav */
+
+.container{
+  margin-left: 300px;
+  margin-right: 300px;
+}
 
 
 .uprise{
