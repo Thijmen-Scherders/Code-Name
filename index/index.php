@@ -36,9 +36,8 @@
 
     </div>
     <div class="contact">
-
-            <h2>Mr Pilan Drain<br>
-                4385 Dusty Knoll<br>
+            <h1>waar zijn wij te vinden</h1><br>
+            <h2>4385 Dusty Knoll<br>
                 Avocado, Saskatchewan, S8L-2J5, CA<br>
                 Phone:(306) 717-4605<br>
                 Email Address:pil.drai@arketmay.com<br>
