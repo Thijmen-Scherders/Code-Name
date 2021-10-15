@@ -9,14 +9,11 @@
     
 </head>
 
-
 <body class="bluepage">
-    
-    
-    <?php require_once '../layouts/header.php'; ?>
-
+<?php require_once '../layouts/header.php'; ?>
+    <div class="container">
+    <div class="queen">
     <img src="../images/quen.jpg" alt="">
-    <div class="snor">
     <p>She keeps her Moet et Chandon
 In her pretty cabinet
 "Let them eat cake", she says
@@ -68,9 +65,9 @@ Insatiable an appetite
 Wanna try?
 You wanna try
 </p>
-</div>
         
     
+</div>
 </div>
 </body>
 

@@ -10,6 +10,8 @@
 <body>
 
         <?php require_once '../layouts/header.php'; ?>
+<div class="container">
+        <img src="../images/hamer.png" alt="hamer" width="500px">
 
     <p>Een hamer is een klop- of slagwerktuig. Een hamer bestaat uit een steel, het handvat, met aan het eind de zogenaamde hamerkop.
 
@@ -64,7 +66,6 @@ krijgshamer
 Hamer die als wapen gebruikt wordt.
 terugslagvrije hamer (dead blow)
 Een hamer gevuld met hagel (lood).</p>
-
-<img src="../images/hamer.png" alt="hamer" width="500px">
+</div>
 </body>
 </html>
