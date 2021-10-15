@@ -34,6 +34,21 @@
             <a href="../songteksten/Quen.php">
             <li>Queen - Killer Queen</li>
             </a>
+            <a href="../songteksten/ironmaiden.php">
+            <li>Ironmaiden</li>
+            </a>
+            <a href="../songteksten/Madnes.php">
+            <li>Madness</li>
+            </a>
+            <a href="../songteksten/Muse.php">
+            <li>Muse</li>
+            </a>
+            <a href="../songteksten/plugbaby.php">
+            <li>Plugbaby</li>
+            </a>
+            <a href="../songteksten/pluginbaby.php">
+            <li>Pluginbaby</li>
+            </a>
         </ul>
         </div>
         <div class="parent">Songteksten</div>
