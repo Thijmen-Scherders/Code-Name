@@ -29,10 +29,6 @@ body{
     background-color: orange;
     text-align: center;
 }
-.queen{
-    background-color: blue;
-    
-}
 
 
 .snor{
@@ -45,6 +41,7 @@ body{
     flex-direction: column;
     
 }
+
 
 .videoland{
     display: flex;
@@ -90,6 +87,7 @@ header{
     margin: 20px;
     border-radius: 15px;
 }
+
 .links{
     width: 80%;
     margin: auto;
@@ -292,4 +290,22 @@ p{
 
   margin: 150px;
 
+}
+p{
+  margin-bottom: 100px;
+}
+
+.contact2{
+  background: grey ;
+    clear: both;
+    margin-top: 100;
+    position: relative;
+    z-index: 10;
+    height: 72px;
+    margin-top: -72px;
+    padding: 0 50px;
+  
+    display: flex;
+    
+    align-items: center;
 }

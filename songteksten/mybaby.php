@@ -61,5 +61,8 @@ Your browser does not support the audio element.
 </div>         
 </div>      
 </body>
+<footer>
+<?php require_once '../layouts/footer.php'; ?>
+</footer>
 
 </html>

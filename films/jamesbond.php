@@ -24,4 +24,7 @@
 <img src="../images/jamesbond.jpg" alt="roger moore">
 </div>
 </body>
+<footer>
+<?php require_once '../layouts/footer.php'; ?>
+</footer>
 </html>

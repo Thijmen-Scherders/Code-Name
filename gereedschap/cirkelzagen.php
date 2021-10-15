@@ -20,4 +20,7 @@ Ben je op zoek naar meer informatie of de een overzicht van cirkelzagen? Neem da
 <img src="../images/cirkelzaag.png" alt="cirkelzaag">
 </div>
 </body>
+<footer>
+<?php require_once '../layouts/footer.php'; ?>
+</footer>
 </html>

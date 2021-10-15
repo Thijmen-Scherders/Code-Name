@@ -65,10 +65,12 @@ Insatiable an appetite
 Wanna try?
 You wanna try
 </p>
-        
+
     
 </div>
 </div>
 </body>
-
+<footer>
+<?php require_once '../layouts/footer.php'; ?>
+</footer>
 </html>

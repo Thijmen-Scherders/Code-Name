@@ -62,4 +62,7 @@
 
 </body>
 </div>
+<footer>
+<?php require_once '../layouts/footer.php'; ?>
+</footer>
 </html>
