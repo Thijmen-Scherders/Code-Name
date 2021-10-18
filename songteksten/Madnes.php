@@ -16,6 +16,10 @@
     <div class="uprise">
         <img src="../images/trans.jpg" alt="">
     </div>
+    <audio controls autoplay>
+  <source src="../mp3/madness.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
         <div class="songtext">
              <p><b>
                 I, I can't get these memories out of my mind
