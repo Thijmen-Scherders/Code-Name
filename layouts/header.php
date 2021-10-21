@@ -21,36 +21,8 @@
         </div>
         <div class="parent">Films</div>
     </div>
-
-    <div class="wrapper">
-        <div class="content">
-        <ul>
-            <a href="../songteksten/mybaby.php">
-            <li>My Baby - Uprising</li>
-            </a>
-            <a href="../songteksten/queen.php">
-            <li>Queen - Bohemian Rhapsody</li>
-            </a>
-            <a href="../songteksten/Quen.php">
-            <li>Queen - Killer Queen</li>
-            </a>
-            <a href="../songteksten/ironmaiden.php">
-            <li>Ironmaiden</li>
-            </a>
-            <a href="../songteksten/Madnes.php">
-            <li>Madness</li>
-            </a>
-            <a href="../songteksten/Muse.php">
-            <li>Muse</li>
-            </a>
-            <a href="../songteksten/plugbaby.php">
-            <li>Plugbaby</li>
-            </a>
-            <a href="../songteksten/pluginbaby.php">
-            <li>Pluginbaby</li>
-            </a>
-        </ul>
-        </div>
+        <button><a href="../songteksten/songteksten.php">songteksten</a></button>
+    
         <div class="parent">Songteksten</div>
     </div>
         <div class="wrapper">

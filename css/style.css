@@ -74,7 +74,17 @@ p{
   background-color: yellow;
 }
 
-
+.songteksten{
+  display: grid;
+    column-gap: 5mm;
+    row-gap: 5mm;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto;
+    grid-area: songteksten;
+    grid-template-areas:
+      "songteksten"
+    ;
+}
 /* nav */
 header{
     background-color: lightgrey;
