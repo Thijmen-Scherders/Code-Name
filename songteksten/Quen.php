@@ -18,9 +18,7 @@
     <div class="queen">
     <img src="../images/queen.jpg" alt="">
     <audio controls autoplay>
-  <source src="../mp3/queen2.mp3" type="audio/mpeg">
-Your browser does not support the audio element.
-</audio>
+  
     <p>s this the real life?
     Is this just fantasy?
     Caught in a landside,

@@ -16,10 +16,7 @@
     <div class="uprise">
         <img src="../images/plugin.jpg" alt="">
     </div>
-    <audio controls autoplay>
-  <source src="../mp3/plugin.mp3" type="audio/mpeg">
-Your browser does not support the audio element.
-</audio>
+    
         <div class="songtext">
              <p><b>
              Plug In Baby"

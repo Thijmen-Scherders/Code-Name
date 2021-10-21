@@ -16,10 +16,7 @@
     <div class="uprise">
         <img src="../images/muse-uprising.jpg" alt="">
     </div>
-    <audio controls autoplay>
-  <source src="../mp3/uprising.mp3" type="audio/mpeg">
-Your browser does not support the audio element.
-</audio>
+    
         <div class="songtext">
              <p>Paranoia is in bloom
             The PR transmissions will resume
