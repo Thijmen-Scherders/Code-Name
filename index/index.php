@@ -19,10 +19,10 @@
 
     <div class="contact">
             <h1>waar zijn wij te vinden</h1><br>
-            <h2>Adres:4385 Dusty Knoll<br>
-                Avocado, Saskatchewan, S8L-2J5, CA<br>
-                Phone:(306) 717-4605<br>
-                Email Address:pil.drai@arketmay.com<br>
+            <h2>Adres:terhijdenseweg350<br>
+               4826 AA Breda<br>
+                Phone:0882097521<br>
+                Email Address:tscherders@kpnmail.nl<br>
             </h2>
 
 
