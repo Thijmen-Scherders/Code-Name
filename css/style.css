@@ -211,10 +211,22 @@ header{
 /* einde nav */
 
 .container{
-  margin-left: 300px;
-  margin-right: 300px;
-}
+  background: #222;
+  color: white;
+  border-radius: 15px;
+  padding: 25px;
+  display: flex;
+  justify-content: space-between;
 
+}
+.text{
+  display: flex ;
+  justify-content: start;
+}
+.james{
+  display: flex;
+  justify-content: end;
+}
 
 .uprise{
   display: flex;
@@ -281,4 +293,7 @@ p{
 
 .logo img{
   width: 70%;
+    box-shadow: 0 0 7px rgb(0, 0, 0);
+    text-shadow: 0 0 3px #fff;
+
 }
