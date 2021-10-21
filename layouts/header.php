@@ -4,7 +4,7 @@
 <link rel="stylesheet" href="css/style.css">
 </head>
 <header>
-    <div class="logo">   <a href="/code-Name/index/index.php"><img src="../images/logo.png" alt="logo" width='150px' height="150px"></a></div>
+    <div class="logo">   <a href="/code-Name/index/index.php"><img src="../images/code-camp.png" alt="logo" width='150px' height="150px"></a></div>
 <div class="links">
 
     
