@@ -11,7 +11,7 @@
 
 <body class="bluepage">
 <?php require_once '../layouts/header.php'; ?>
-    <div class="container">
+    <div class="fullqueen2">
     <div class="queen">
     <img src="../images/quen.jpg" alt="">
     

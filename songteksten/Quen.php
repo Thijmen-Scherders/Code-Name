@@ -14,7 +14,7 @@
 <?php require_once '../layouts/header.php'; ?>
 
 <body>
-    <div class="container">
+    <div class="fullqueen1">
     <div class="queen">
     <img src="../images/queen.jpg" alt="">
     <audio controls autoplay>
