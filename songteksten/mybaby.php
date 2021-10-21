@@ -13,7 +13,7 @@
 
     
 <?php require_once '../layouts/header.php'; ?>
-<div class="container">
+<div class="fullmybaby">
 
     <img src="../images/mybaby.jpg" alt="">
     
