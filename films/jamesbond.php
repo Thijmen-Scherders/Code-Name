@@ -8,10 +8,12 @@
     <link rel="stylesheet" href="../css/style.css">
 </head>
 <body>
+<?php require_once '../layouts/header.php'; ?>
+    <div class="wrapper">
 
-        <?php require_once '../layouts/header.php'; ?>
+       
 
-    <div class="container">
+    <div class="container"><div class="text"><h2>
     <?php 
         $movies = array("Live and let die", "The man with the golden gun", "The spy who loved me", "Moonraker", "For your eyes only", "octopussy", "A view to kill all");
 
@@ -20,8 +22,11 @@
             echo "<br>";
         }
     ?>
-
-<img src="../images/jamesbond.jpg" alt="roger moore">
+    </h2></div>
+<div class="james">
+    <img src="../images/jamesbond.jpg" alt="roger moore" width="auto" height="450px">
+    </div>
+</div>
 </div>
 </body>
 <footer>
