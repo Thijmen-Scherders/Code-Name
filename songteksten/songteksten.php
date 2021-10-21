@@ -17,13 +17,13 @@
        </div>
        <br>
     <div class="songteksten">
-        <A href="queen.php">Killer Queen -- Queen</A>
-        <A href="Quen.php">Bohemian Rhapsody -- Queen</A>
-        <A href="plugbaby.php">Plug In Baby -- Muse</A>
-        <A href="mybaby.php">Uprising -- My Baby</A>
-        <A href="Muse.php">Paranoia -- Muse</A>
-        <A href="Madnes.php">Madness -- Muse</A>
-        <A href="ironmaiden.php">Transvylania -- Muse</A>  
+        <A href="queen.php"><h4>Killer Queen -- Queen</h4></A>
+        <A href="Quen.php"><h4>Bohemian Rhapsody -- Queen</h4></A>
+        <A href="plugbaby.php"><h4>Plug In Baby -- Muse</h4></A>
+        <A href="mybaby.php"><h4>Uprising -- My Baby</h4></A>
+        <A href="Muse.php"><h4>Paranoia -- Muse</h4></A>
+        <A href="Madnes.php"><h4>Madness -- Muse</h4></A>
+        <A href="ironmaiden.php"><h4>Transvylania -- Muse</h4></A>  
     </div>
 </body>
 <footer>
