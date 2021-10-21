@@ -16,10 +16,7 @@
 <div class="container">
 
     <img src="../images/mybaby.jpg" alt="">
-    <audio controls autoplay>
-  <source src="../mp3/mybaby.mp3" type="audio/mpeg">
-Your browser does not support the audio element.
-</audio>
+    
     <p>Allow me in your tub
     Just allow me in your club
     Allow me to drink from your cup

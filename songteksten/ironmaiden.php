@@ -16,10 +16,7 @@
     <div class="uprise">
         <img src="../images/trans.jpg" alt="">
     </div>
-    <audio controls autoplay>
-  <source src="../mp3/iron.mp3" type="audio/mpeg">
-Your browser does not support the audio element.
-</audio>
+   
         <div class="songtext">
              <p><b>
              [Verse 1: Tom]
