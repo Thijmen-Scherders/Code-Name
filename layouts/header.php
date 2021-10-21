@@ -21,24 +21,12 @@
         </div>
         <div class="parent">Films</div>
     </div>
-        <button><a href="../songteksten/songteksten.php">songteksten</a></button>
-    
-        <div class="parent">Songteksten</div>
-    </div>
-        <div class="wrapper">
-        <div class="content">
-        <ul>
-            <a href="../gereedschap/cirkelzagen.php">
-            <li>Cirkelzagen</li>
-            </a>
-            <a href="../gereedschap/hamers.php">
-            <li>Hamers</li>
-            </a>
-            <a href="../gereedschap/kettingzagen.php">
-            <li>Kettingzagen</li>
-            </a>
-        </ul>
-        </div>
+
+   
+        <button><A href="../songteksten/songteksten.php"> Songteksten
+            
+        </A>
+        </button>
         <div class="parent">Gereedschap</div>
     
     </div>

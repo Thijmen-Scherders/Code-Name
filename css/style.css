@@ -84,7 +84,9 @@ p{
     grid-template-areas:
       "songteksten"
     ;
+  
 }
+
 /* nav */
 header{
     background-color: lightgrey;
