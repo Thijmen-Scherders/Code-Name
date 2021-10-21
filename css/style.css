@@ -302,6 +302,12 @@ p{
     width: 100%;
     bottom: 0%;
 }
+.div{
+width: 70%;
+display: flex;
+justify-content: center;
+margin: auto;
+}
 
 .logo img{
   width: 70%;
@@ -323,4 +329,10 @@ p{
   margin-left: 300px;
 
   margin-right: 300px;
+}
+.songteksten a{
+  background-color: lightgrey;
+  padding: 15px;
+  border-radius: 15px;
+  margin: 10px 10px 10px 10px;
 }
