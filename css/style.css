@@ -227,7 +227,7 @@ header{
 }
 .datum_tijd {
     height: 100px;
-    width: 70%;
+    width: 65%;
     line-height: 100px;  
     margin: 50px auto 0;
     padding: 0 50px;
@@ -247,41 +247,10 @@ p{
   font-weight: bold;
   font-size: 25px;
 }
-.contactinformatie{
-  background-image: url("../images/contact1.jpg");
-  color: white;
-  padding: 50px;
-  margin: 150px;
-  border-radius: 15px;
 
-}
-.mainpage{
-  background-image: url("../images/pexels-philippe-donn-1169754.jpg");
-}
-.wrapper{
-  background-image: url("../images/pexels-philippe-donn-1169754.jpg");
-}
-.persons{
-  background: #222;
-  color: white;
-  border-radius: 15px;
-  padding: 15px;
-  display: flex;
-  justify-items: baseline;
-  margin: 150px;
-}
-.person1{
-  display: flex;
-  justify-content: baseline;
-}
-.person2{
-  display: flex;
-  justify-content: baseline;
-}
-.person3{
-  display: flex;
-  justify-content: baseline;
-}
+
+
+
 .contact{
   background: #222;
   color: white;
@@ -299,13 +268,13 @@ p{
   background: grey ;
     clear: both;
     margin-top: 100;
-    position: relative;
+    position: fixed;
     z-index: 10;
     height: 72px;
     margin-top: -72px;
-    padding: 0 50px;
-  
+    padding: 0 25px;
     display: flex;
-    
     align-items: center;
+    width: 100%;
+    bottom: 0%;
 }

@@ -16,25 +16,7 @@
     </div>
     <div class="homeimg">
 
-    </div>
-    <div class="contactinformatie">
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat dicta accusamus autem dolor veniam. Odio fugit id nesciunt at modi non consequatur quidem nemo. Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem, harum dolores laudantium quia eius maiores perferendis! In accusamus nostrum cupiditate eaque! Numquam incidunt, odit laborum accusantium placeat provident cupiditate sequi.</p>
-    </div>
-    <div class="persons">
-            <div class="person1">
-            <img src="../images/Stuart-Pettygrove-2.jpg" alt="" width="auto" height="100px">
-            <h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A aspernatur deserunt minima cupiditate doloribus minus dignissimos dolores quo architecto voluptate neque veniam, asperiores nulla. Rem corrupti quam tempora eveniet ut.</h4>
-            </div>
-            <div class="person2">
-            <img src="../images/person.jpg" alt=""width="auto" height="100px">
-            <h4>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nostrum nesciunt veritatis velit sunt deserunt cum amet ipsa fugit, odio ex totam exercitationem inventore commodi ea nobis neque. Ipsum, suscipit delectus.</h4>
-            </div>
-            <div class="person3">
-            <img src="../images/person2.jpg" alt="" width="auto" height="100px">
-            <h4>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Doloremque molestias qui, eum, quibusdam unde saepe ea debitis, esse vero sit expedita vitae neque laboriosam adipisci quasi quidem reiciendis sunt ratione?</h4>
-            </div>
 
-    </div>
     <div class="contact">
             <h1>waar zijn wij te vinden</h1><br>
             <h2>Adres:4385 Dusty Knoll<br>
@@ -49,6 +31,6 @@
   </div>
 </div>
 </div>
-
+<?php require_once '../layouts/footer.php'; ?>
 </body>
 </html>
