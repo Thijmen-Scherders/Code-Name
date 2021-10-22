@@ -12,7 +12,8 @@
 <body class="greenpage">
    
 <?php require_once '../layouts/header.php'; ?>
-<div class="skywalker">  
+<div class="wrapper">
+<div class="container">  
     <img src="../images/luke.jpg" alt="">
     <p>
     Luke Skywalker is een fictief personage en de hoofdpersoon van de originele filmtrilogie van de Star Wars-franchise, gemaakt door George Lucas.
@@ -22,7 +23,7 @@
 </p>
         
     
-
+</div>
 </div>               
 </body>
 

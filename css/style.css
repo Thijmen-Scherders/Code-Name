@@ -390,3 +390,14 @@ margin: auto;
   grid-template-columns: 1fr 1fr;
   grid-template-rows: auto;
 }
+.acteurs a{
+  background-color: lightgrey;
+  padding: 15px;
+  border-radius: 15px;
+  margin: 10px 10px 10px 10px;
+}
+.acteurs{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: auto;
+}
