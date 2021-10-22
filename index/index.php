@@ -18,7 +18,7 @@
 
 
     <div class="contact">
-            <h1>waar zijn wij te vinden</h1><br>
+            <h1>Waar zijn wij te vinden</h1><br>
             <h2>Adres:terhijdenseweg350<br>
                4826 AA Breda<br>
                 Phone:0882097521<br>
