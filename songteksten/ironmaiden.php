@@ -14,7 +14,7 @@
 <?php require_once '../layouts/header.php'; ?>
 <div class="muse">  
     <div class="uprise">
-        <img src="../images/trans.jpg" alt="" width="450px hide auto">
+        <img src="../images/trans.jpg" alt="">
     </div>
    
         <div class="songtext">

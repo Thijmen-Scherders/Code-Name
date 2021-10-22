@@ -376,30 +376,7 @@ margin: auto;
 
   margin-right: 300px;
 }
-
-.songtext{
-  text-align: center;
-  padding-top: 10px;
- 
-}
-
-.songtext p{
-  margin-top: 200px;
-}
-
-.muse{
-  margin: auto 0;
-  border: 8px solid grey;
-  padding: 50px;
-  margin: 20px;
-  height: 500px;
-  width: 650px;
-  box-shadow: 10px black;
-  border-radius: 10px;
-  display: flex; 
-  justify-content: center;
-
-  .songteksten a{
+.songteksten a{
   background-color: lightgrey;
   padding: 15px;
   border-radius: 15px;
