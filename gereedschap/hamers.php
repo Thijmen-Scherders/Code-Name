@@ -10,15 +10,18 @@
 <body>
 
         <?php require_once '../layouts/header.php'; ?>
+        <div class="wrapper">
 <div class="container">
+    <div class="hamer">
         <img src="../images/hamer.png" alt="hamer" width="500px">
-
-    <h2>Een hamer is een klop- of slagwerktuig. Een hamer bestaat uit een steel, het handvat, met aan het eind de zogenaamde hamerkop.
+        </div>
+        <p> Hamers <br></br>
+    Een hamer is een klop- of slagwerktuig. Een hamer bestaat uit een steel, het handvat, met aan het eind de zogenaamde hamerkop.
 
         De vorm en grootte en het materiaal van de hamerkop en de lengte van de steel hangen sterk af van het type hamer. Bij hamers met een ijzeren hamerkop staat vaak het aantal grammen in het metaal geslagen. Voor speciale uitvoeringen, zoals voor percussie-instrumenten, wordt ook de term mallet (uit het Engels) gebruikt.
 
         Typen hamers
-        De volgende tabel geeft een overzicht van typen van hamers:
+        De volgende tabel geeft een overzicht van typen van hamers:<br></br>
 
         gewone hamer
         Een metalen hamerkop van 50-300 gram op een houten steel van ca. 30 cm lang die onder meer wordt gebruikt om spijkers (draadnagels) in houten voorwerpen te slaan.
@@ -31,13 +34,12 @@
         straathamer
         Een hamer om te straten, met een kromme zijde om stenen door midden te slaan, en een rechte afgeplatte zijde om stenen aan te slaan (bestraten).
         voorhamer
-        Een hamer om sloopwerkzaamheden uit te voeren. Een hamerkop van een paar kilo op een steel van een meter lang.
+        Een hamer om sloopwerkzaamheden uit te voeren. <br></br> Een hamerkop van een paar kilo op een steel van een meter lang.
         rubberen hamer
         Een rubberen hamer wordt vooral gebruikt bij het leggen van tegels op grond. Een kleine hamer met een rubberen gewicht die kan worden gebruikt voor voorzichtig werk, zoals het aankloppen van kleine lijmverbindingen in de houtbewerking. Kampeerders gebruiken een rubber hamer om de tentpinnen in de grond te slaan. 
-</h2>
+</p>
 </div>
-</body>
-<footer>
+</div>
 <?php require_once '../layouts/footer.php'; ?>
-</footer>
+</body>
 </html>

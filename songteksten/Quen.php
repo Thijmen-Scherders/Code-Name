@@ -14,10 +14,11 @@
 <?php require_once '../layouts/header.php'; ?>
 
 <body>
+    
     <div class="fullqueen1">
     <div class="queen">
     <img src="../images/queen.jpg" alt="">
-    <audio controls autoplay>
+
   
     <p>s this the real life?
     Is this just fantasy?
