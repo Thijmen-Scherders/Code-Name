@@ -27,8 +27,7 @@
             
         </A>
         </button>
-        <button><a href="../gereedschap/Gereedschap.php">Gereedschap</a></button>
-        <button><a href="../acteurs/acteurs.php">Acteurs</a></button>
+        <button><a href="../gereedschap/Gereedschap.php">gereedschap</a></button>
     
     </div>
 </div>
