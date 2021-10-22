@@ -86,27 +86,7 @@ p{
     ;
   
 }
-.gereedschap{
-  display: grid;
-    column-gap: 5px;
-    row-gap: 5px;
-    grid-template-columns: 1fr 1fr;
-    grid-template-rows: auto;
-    grid-template-areas:
-      "hamers" "cirkelzagen"
-      ""       "kettingzagen"
-    ;
-  
-}
-.hamers{
-  grid-area: hamers;
-}
-.cirkelzagen{
-  grid-area: cirkelzagen;
-}
-.kettingzagen{
-  grid-area: kettinzagen;
-}
+
 /* nav */
 header{
     background-color: lightgrey;
@@ -372,4 +352,21 @@ margin: auto;
   border-radius: 10px;
   display: flex; 
   justify-content: center;
+
+  .songteksten a{
+  background-color: lightgrey;
+  padding: 15px;
+  border-radius: 15px;
+  margin: 10px 10px 10px 10px;
+}
+.gereedschap a{
+  background-color: lightgrey;
+  padding: 15px;
+  border-radius: 15px;
+  margin: 10px 10px 10px 10px;
+}
+.gereedschap{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: auto;
 }
