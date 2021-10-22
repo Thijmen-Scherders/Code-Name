@@ -86,6 +86,52 @@ p{
     ;
   
 }
+<<<<<<< HEAD
+=======
+.gereedschap{
+  display: grid;
+    column-gap: 5px;
+    row-gap: 5px;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto;
+    grid-template-areas:
+      "hamers" "cirkelzagen"
+      ""       "kettingzagen"
+    ;
+  
+}
+.hamers{
+  grid-area: hamers;
+}
+.cirkelzagen{
+  grid-area: cirkelzagen;
+}
+.kettingzagen{
+  grid-area: kettinzagen;
+}
+
+.acteurs{
+  display: grid;
+    column-gap: 5px;
+    row-gap: 5px;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto;
+    grid-template-areas:
+      "darth" "timothy"
+      "luke"       ""
+    ;
+}
+  .dart{
+    grid-area: darth;
+
+  }
+  .luke{
+    grid-area: luke;
+  }
+.timothy{
+  grid-area: timothy
+}
+>>>>>>> f107e3bbeff612a901587ed8a7cf42b3b4af5335
 
 /* nav */
 header{
