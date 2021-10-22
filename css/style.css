@@ -403,7 +403,17 @@ margin: auto;
 }
 
 .muse{
-  display:flex;
-  justify-content: center;
+    border-radius: 10px;
+    display: flex; 
+    justify-content: center;
+    border: 10px solid #8f8f8f;
+    width: 750px;
+    margin-left: 600px;
+    margin-top: 50px;
 
+}
+
+.songtext p{
+  text-align: center;
+  margin-top: 150px;
 }
