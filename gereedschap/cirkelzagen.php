@@ -10,6 +10,7 @@
 <body>
 
         <?php require_once '../layouts/header.php'; ?>
+        <div class="wrapper">
 <div class="container">
     <p>De cirkelzaagmachines wordt gebruikt voor het maken van lange en rechten snijlijnen in grote stukken hout of metaal. Dit in tegenstelling tot de afkortzaag, die wordt gebruikt voor het ‘afkorten’ van latten en buizen. Toch wordt de afkortzaag ook wel een cirkelzaag genoemd. Bij een afkortzaag is de ‘cirkelzaag’ namelijk gemonteerd aan een arm die bewogen kan worden.
 
@@ -18,6 +19,7 @@ Er bestaan verschillende soorten cirkelzagen. Je kiest voor een handcirkelzaag, 
 Ben je op zoek naar meer informatie of de een overzicht van cirkelzagen? Neem dan een kijkje op Toolstation. Toolstation is een van de snelst groeiende multi-channel winkels voor gereedschappen van Nederland.</p>
 
 <img src="../images/cirkelzaag.png" alt="cirkelzaag">
+</div>
 </div>
 </body>
 <footer>
