@@ -16,12 +16,10 @@
     <div class="gereedschap">
         
             
-            <div class="kettingzagen"><a href="kettingzagen.php">kettingzagen</a></div>
-            <div class="cirkelzagen"><a href="cirkelzagen.php">cirkelzaken</a></div>
-        
-        <div class="hamers">
-            <a href="hamers.php">hamer</a>
-        </div>
+    <a href="kettingzagen.php">kettingzagen</a>
+    <a href="cirkelzagen.php">cirkelzaken</a>
+    <a href="hamers.php">hamer</a>
+
          
     </div>
 </body>
