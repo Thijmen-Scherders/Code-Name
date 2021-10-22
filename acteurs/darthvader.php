@@ -10,10 +10,9 @@
 </head>
 
 <body class="yellowpage">
+   
 <?php require_once '../layouts/header.php'; ?>
-   <div class="wrapper">
-
-<div class="container">  
+<div class="darth">  
     <img src="../images/darth.jpg" alt="">
     <p>
     Darth Vader is een personage uit de Star Wars-films. Hij is als Sith-leerling ondergeschikt aan keizer Palpatine, ook bekend als Darth Sidious.
@@ -22,7 +21,7 @@ In de jaren 1977, 1980 en 1983 werd Darth Vader gespeeld door acteur David Prows
 </p>
         
     
-</div>
+
 </div>               
 </body>
 

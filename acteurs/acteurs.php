@@ -17,9 +17,9 @@
        </div>
        <br>
     <div class="acteurs">
-        <a href="darthvader.php"><h4>Darth Vader</h4></a>
-        <a href="lukeskywalker.php"><h4>Luke Skywalker</h4></a>
-        <a href="timothydalton.php"><h4>Timothy Dalton</h4></a>
+        <a href="darthvader.php">Darth Vader</a>
+        <a href="lukeskywalker.php">Luke Skywalker</a>
+        <a href="timothydalton.php">Timothy Dalton</a>
 
     </div>
 
