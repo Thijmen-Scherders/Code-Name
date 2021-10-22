@@ -353,7 +353,7 @@ margin: auto;
 }
 
 .logo img{
-  width: 70%;
+  	width: 800px;
     box-shadow: 0 0 7px rgb(0, 0, 0);
     text-shadow: 0 0 3px #fff;
 
@@ -400,4 +400,20 @@ margin: auto;
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-template-rows: auto;
+}
+
+.muse{
+    border-radius: 10px;
+    display: flex; 
+    justify-content: center;
+    border: 10px solid #8f8f8f;
+    width: 750px;
+    margin-left: 600px;
+    margin-top: 50px;
+
+}
+
+.songtext p{
+  text-align: center;
+  margin-top: 150px;
 }

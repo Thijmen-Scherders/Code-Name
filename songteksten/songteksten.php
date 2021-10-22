@@ -23,7 +23,7 @@
         <A href="mybaby.php"><h4>Uprising -- My Baby</h4></A>
         <A href="Muse.php"><h4>Paranoia -- Muse</h4></A>
         <A href="Madnes.php"><h4>Madness -- Muse</h4></A>
-        <A href="ironmaiden.php"><h4>Transvylania -- Muse</h4></A>  
+        <A href="ironmaiden.php"><h4>Transvylania -- Iron Maiden</h4></A>  
     </div>
 </body>
 <footer>
