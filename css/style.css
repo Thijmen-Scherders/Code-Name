@@ -353,7 +353,7 @@ margin: auto;
 }
 
 .logo img{
-  width: 70%;
+  	width: 800px;
     box-shadow: 0 0 7px rgb(0, 0, 0);
     text-shadow: 0 0 3px #fff;
 
@@ -400,4 +400,10 @@ margin: auto;
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-template-rows: auto;
+}
+
+.muse{
+  display:flex;
+  justify-content: center;
+
 }
