@@ -27,7 +27,7 @@
             
         </A>
         </button>
-        <div class="parent">Gereedschap</div>
+        <button><a href="../gereedschap/Gereedschap.php">gereedschap</a></button>
     
     </div>
 </div>
