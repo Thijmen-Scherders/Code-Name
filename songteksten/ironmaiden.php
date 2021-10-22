@@ -19,7 +19,7 @@
    
         <div class="songtext">
             <p><b>
-             Is een insturmetale song
+             Is een insturmentalen song
             </b></p>
         </div>
         
