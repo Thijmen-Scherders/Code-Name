@@ -14,8 +14,9 @@
     
 <?php require_once '../layouts/header.php'; ?>
 <div class="fullmybaby">
-
+    <div class="babyimg">
     <img src="../images/mybaby.jpg" alt="">
+    </div>
     
     <p>Allow me in your tub
     Just allow me in your club

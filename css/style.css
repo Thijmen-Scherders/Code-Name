@@ -422,3 +422,9 @@ margin: auto;
   margin-top: 150px;
 }
 
+.fullmybaby{
+  border: solid 10px;
+  display: flex;
+  justify-content: center;
+}
+
