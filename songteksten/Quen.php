@@ -20,7 +20,7 @@
     <img src="../images/queen.jpg" alt="">
 
   
-    <p>s this the real life?
+    <p>is this the real life?
     Is this just fantasy?
     Caught in a landside,
     No escape from reality
