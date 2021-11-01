@@ -13,14 +13,11 @@
     <div id="demo">
     
 
-   
-        <button><A href="../songteksten/songteksten.php"> Songteksten
-            
-        </A>
-        </button>
+        <button><a href="../dranken/dranken.php">Dranken</a></button>
+        <button><A href="../songteksten/songteksten.php"> Songteksten</a> </button>
         <button><a href="../gereedschap/Gereedschap.php">Gereedschap</a></button>
         <button><a href="../acteurs/acteurs.php">Acteurs</a></button>
-    
+        
     </div>
 </div>
 </header>
