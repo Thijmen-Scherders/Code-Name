@@ -5,7 +5,7 @@
 </head>
 <footer>
 <div class="contact2">
-    @copyright anwar mike thijmen noor
+    @copyright anwar mick thijmen noor
 </div>
 
 
