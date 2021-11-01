@@ -13,7 +13,7 @@
 <?php require_once '../layouts/header.php'; ?>
     <div class="fullqueen2">
     <div class="queen">
-    <img src="../images/quen.jpg" alt="">
+    <img src="../images/quen.jpg"  height="50%" alt="">
     
     <p>She keeps her Moet et Chandon
 In her pretty cabinet

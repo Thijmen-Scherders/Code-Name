@@ -358,21 +358,7 @@ margin: auto;
     text-shadow: 0 0 3px #fff;
 
 }
-.fullmybaby{
-  margin-left: 300px;
 
-  margin-right: 300px;
-}
-.fullqueen1{
-  margin-left: 300px;
-
-  margin-right: 300px;
-}
-.fullqueen2{
-  margin-left: 300px;
-
-  margin-right: 300px;
-}
 .songteksten a{
   background-color: lightgrey;
   padding: 15px;
@@ -402,15 +388,6 @@ margin: auto;
   grid-template-rows: auto;
 }
 
-.muse{
-    border-radius: 10px;
-    display: flex; 
-    justify-content: center;
-    border: 10px solid #8f8f8f;
-    width: 750px;
-    margin-left: 600px;
-    margin-top: 50px;
-    
 
 }
 .luke{
@@ -432,6 +409,8 @@ margin: auto;
   border: solid 10px;
   display: flex;
   justify-content: 	center;
+  margin-left: 20%;
+  margin-right: 20%;
 }
 
 .Muse{
