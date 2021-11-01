@@ -11,16 +11,7 @@
         
     
     <div id="demo">
-    <div class="wrapper">
-        <div class="content">
-        <ul>
-            <a href="../films/jamesbond.php">
-            <li>James Bond</li>
-            </a>
-        </ul>
-        </div>
-        <div class="parent">Films</div>
-    </div>
+    
 
    
         <button><A href="../songteksten/songteksten.php"> Songteksten
