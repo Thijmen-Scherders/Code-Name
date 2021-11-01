@@ -12,7 +12,7 @@
 <body class="redpage">
  
 <?php require_once '../layouts/header.php'; ?>
-<div class="muse">  
+<div class="queen">  
     <div class="uprise">
         <img src="../images/plugin.jpg" alt="">
     </div>

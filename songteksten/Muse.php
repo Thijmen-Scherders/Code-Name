@@ -12,7 +12,7 @@
 <body class="orangepage">
  
 <?php require_once '../layouts/header.php'; ?>
-<div class="Muse">  
+<div class="queen">  
     <div class="uprise">
         <img src="../images/muse-uprising.jpg" alt="">
     </div>
