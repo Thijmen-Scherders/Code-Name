@@ -16,24 +16,25 @@
         <img src="../images/hamer.png" alt="hamer" width="500px">
         </div>
         <p> Hamers <br></br>
-    Een hamer is een klop- of slagwerktuig. Een hamer bestaat uit een steel, het handvat, met aan het eind de zogenaamde hamerkop.
+        Een hamer is een klop- of slagwerktuig. Een hamer bestaat uit een steel, het handvat, met aan het eind de zogenaamde hamerkop.
 
         De vorm en grootte en het materiaal van de hamerkop en de lengte van de steel hangen sterk af van het type hamer. Bij hamers met een ijzeren hamerkop staat vaak het aantal grammen in het metaal geslagen. Voor speciale uitvoeringen, zoals voor percussie-instrumenten, wordt ook de term mallet (uit het Engels) gebruikt.
 
         Typen hamers
         De volgende tabel geeft een overzicht van typen van hamers:<br></br>
 
-gewone hamer
-Een metalen hamerkop van 50-300 gram op een houten steel van ca. 30 cm lang die onder meer wordt gebruikt om spijkers (draadnagels) in houten voorwerpen te slaan.
-klauwhamer
-Zoals een gewone hamer, maar de achterkant van de hamer heeft een platte V-groef waarin spijkers geklemd kunnen worden. De bovenkant is afgerond zodat de geklemde spijker uit het object gerold kan worden.
-vuist of moker
-Een zware hamer met een vierkante hamerkop van 1000-1500 gram op een steel van 30 cm lang, voor zwaar werk. Met een rubberen opzetstuk wordt een vuisthamer gebruikt om tegels of straatstenen in het zand te leggen voor het maken van bestrating.
-tegelhamer
-Houten hamer met grote houten kop en een korte steel. Om tegels te leggen.
-straathamer
-.</p>
+        gewone hamer
+        Een metalen hamerkop van 50-300 gram op een houten steel van ca. 30 cm lang die onder meer wordt gebruikt om spijkers (draadnagels) in houten voorwerpen te slaan.
+        klauwhamer
+        Zoals een gewone hamer, maar de achterkant van de hamer heeft een platte V-groef waarin spijkers geklemd kunnen worden. De bovenkant is afgerond zodat de geklemde spijker uit het object gerold kan worden.
+        vuist of moker
+        Een zware hamer met een vierkante hamerkop van 1000-1500 gram op een steel van 30 cm lang, voor zwaar werk. Met een rubberen opzetstuk wordt een vuisthamer gebruikt om tegels of straatstenen in het zand te leggen voor het maken van bestrating.
+        tegelhamer
+        Houten hamer met grote houten kop en een korte steel. Om tegels te leggen.
+        straathamer
+</p>
 </div>
-<?php require_once '../layouts/footer.php'; ?>
+
 </body>
+<footer><?php require_once '../layouts/footer.php'; ?></footer>
 </html>
