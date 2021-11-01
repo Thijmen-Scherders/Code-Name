@@ -422,3 +422,20 @@ margin: auto;
   margin-top: 150px;
 }
 
+.fullmybaby{
+  border: solid 10px;
+  display: flex;
+  justify-content: center;
+}
+
+.queen{
+  border: solid 10px;
+  display: flex;
+  justify-content: 	center;
+}
+
+.Muse{
+  border: solid 10px;
+  display: flex;
+  justify-content: 	center;
+}
