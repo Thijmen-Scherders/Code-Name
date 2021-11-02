@@ -18,7 +18,8 @@
     <img src="../images/mybaby.jpg" alt="">
     </div>
     
-    <p>Allow me in your tub
+    <pre>
+    Allow me in your tub
     Just allow me in your club
     Allow me to drink from your cup
     I'll be coming back for more
@@ -52,7 +53,7 @@
     Brothers, keep on rising
     This girl keeps on rising
     Keep on rising up
-</p>
+</pre>
         
     
 
