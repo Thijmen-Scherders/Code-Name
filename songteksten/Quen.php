@@ -17,7 +17,7 @@
     
     <div class="fullqueen1">
     <div class="queen">
-    <img src="../images/queen.jpg" alt="">
+    <img src="../images/queen.jpg" width="700px" height="700px" alt="">
 
   
     <pre>
