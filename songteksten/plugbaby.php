@@ -18,7 +18,7 @@
     </div>
     
         <div class="songtext">
-             <p><b>
+             <pre><b>
              Plug In Baby"
 
             I've exposed your lies, baby
@@ -55,7 +55,7 @@
             And I've been in trouble
             Wooaahhh
 
-            </b></p>
+            </b></pre>
         </div>
         
     

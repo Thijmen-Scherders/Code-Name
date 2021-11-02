@@ -18,7 +18,7 @@
     </div>
     
         <div class="songtext">
-             <p><b>
+             <pre><b>
                 I, I can't get these memories out of my mind
                 And some kind of madness has started to evolve
                 I, I tried so hard to let you go
@@ -50,7 +50,7 @@
                 Maybe I'm too headstrong
                 Our love is
                 Madness
-                </b></p>
+                </b></pre>
         </div>
         
     

@@ -18,7 +18,8 @@
     </div>
     
         <div class="songtext">
-             <p>Paranoia is in bloom
+             <pre>
+            Paranoia is in bloom
             The PR transmissions will resume
             They'll try to push drugs that keep us all dumbed down
             And hope that we will never see the truth around
@@ -53,7 +54,7 @@
             They will not control us
             We will be victorious
             (So come on)
-            </p>
+            </pre>
         </div>
         
     
