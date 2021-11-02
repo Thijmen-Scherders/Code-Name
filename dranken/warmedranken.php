@@ -20,6 +20,7 @@
         <img src="../images/koffie.jpg" alt="koffieplaatje" width="300px" height="300px">
         <p><br>Koffie<br> is een meestal warm genuttigde drank, die wordt bereid op basis van water en gedroogde en gebrande pitten van de koffieplant die vanwege hun vorm koffiebonen worden genoemd. Koffie bevat het stimulerende middel cafeïne. De meeste soorten in het geslacht Coffea komen van nature voor in tropisch Afrika en op de eilanden in de Indische Oceaan. Ze vinden hun oorsprong in Ethiopië, Jemen en Soedan.
 </p>
+
     </div>
     <div class="container1">
         <img src="../images/thee.jpg" alt="Thee plaatje" width="300px" height="300px">
