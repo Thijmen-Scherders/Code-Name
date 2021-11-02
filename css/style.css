@@ -271,8 +271,8 @@ header{
   border-radius: 15px;
   padding: 25px;
   display: flex;
-  justify-content: space-between;
-margin:  30px;
+  justify-content: space;
+  margin: 30px;
 
 }
 .text{
@@ -390,7 +390,7 @@ margin: auto;
 }
 
 
-}
+
 .luke{
   padding: 15px;
 }
@@ -433,8 +433,21 @@ margin: auto;
   grid-template-columns: 1fr 1fr;
   grid-template-rows: auto;
 }
+
+
+.purplepage{
+  background-color: purple;
+}
+
+
+.koffie{
+  border: 5px solid grey;
+  width: 33%;
+
+}
 .frisdrank{
   background-color: orange;
+
 }
 .wrapperfris{
   width: 60%;
@@ -442,4 +455,23 @@ margin: auto;
   background-color: orange;
   display: flex;
   justify-content: baseline;
+}
+
+
+.wrapperwarm{
+  width: 60%;
+  margin: auto;
+  background-color: purple;
+  display: flex;
+  justify-content: baseline;
+}
+
+
+.container1{
+  background: #222;
+  color: white;
+  border-radius: 15px;
+  padding: 25px;
+
+  margin: 30px;
 }
