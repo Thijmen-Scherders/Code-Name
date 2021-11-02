@@ -12,7 +12,7 @@
 <body class="greenpage">
    
 <?php require_once '../layouts/header.php'; ?>
-<div class="wrapper">
+<div class="wrapper2">
 <div class="container">  
     <img src="../images/george.jpg" alt="" height="350px" width="auto"> 
     <p class="george">
