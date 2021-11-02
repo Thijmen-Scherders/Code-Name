@@ -417,6 +417,11 @@ margin: auto;
   border: solid 10px;
   display: flex;
   justify-content: center;
+  
+}
+
+.uprisetekst{
+  color: red;
 }
 
 .queen{
@@ -496,4 +501,8 @@ margin: auto;
 justify-content: center;
 background-color: grey;
 margin: 10px;
+}
+
+.tekstuprise p{
+  Color: red;
 }
