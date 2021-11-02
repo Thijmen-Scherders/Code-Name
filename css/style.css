@@ -272,6 +272,7 @@ header{
   padding: 25px;
   display: flex;
   justify-content: space-between;
+margin:  30px;
 
 }
 .text{
@@ -431,4 +432,14 @@ margin: auto;
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-template-rows: auto;
+}
+.frisdrank{
+  background-color: orange;
+}
+.wrapperfris{
+  width: 60%;
+  margin: auto;
+  background-color: orange;
+  display: flex;
+  justify-content: baseline;
 }
