@@ -13,13 +13,14 @@
 <body>  
 <?php require_once '../layouts/header.php'; ?>
 <div class="div">
-       <h1> Gereedschap</h1>
+       <h1> Zagen</h1>
        </div>
     <div class="gereedschap">
         
             
-        <a href="zagen.php"><h4>Zagen</h4></a>
-        <a href="hamers.php"><h4>Hamers</h4></a>
+        <a href="kettingzagen.php"><h4>Kettingzagen</h4></a>
+        <a href="cirkelzagen.php"><h4>Cirkelzagen</h4></a>
+        <a href="handzagen.php"><h4>Handzagen</h4></a>
 
 
          
