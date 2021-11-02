@@ -20,7 +20,8 @@
     <img src="../images/queen.jpg" alt="">
 
   
-    <p>is this the real life?
+    <pre>
+    is this the real life?
     Is this just fantasy?
     Caught in a landside,
     No escape from reality
@@ -77,7 +78,7 @@
     Nothing really matters,
     Nothing really matters to me
     Any way the wind blows...
-</p>
+</pre>
         
     
 </div>         

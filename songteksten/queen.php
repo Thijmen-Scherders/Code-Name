@@ -15,7 +15,8 @@
     <div class="queen">
     <img src="../images/quen.jpg"  height="50%" alt="">
     
-    <p>She keeps her Moet et Chandon
+    <pre>
+She keeps her Moet et Chandon
 In her pretty cabinet
 "Let them eat cake", she says
 Just like Marie Antoinette
@@ -65,7 +66,7 @@ Recommended at the price
 Insatiable an appetite
 Wanna try?
 You wanna try
-</p>
+</pre>
 
     
 </div>
