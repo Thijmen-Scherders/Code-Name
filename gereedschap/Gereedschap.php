@@ -19,13 +19,10 @@
         
             
         <a href="zagen.php"><h4>Zagen</h4></a>
-<<<<<<< Updated upstream
-        <a href="hamers.php"><h4>Hamers</h4></a>
-=======
         <a href="hamers.php"><h4>Hamer</h4></a>
         <a href="schroevendraaier.php"><h4>Schroevendraaier</h4></a>
         
->>>>>>> Stashed changes
+
 
 
          
