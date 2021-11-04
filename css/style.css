@@ -481,7 +481,7 @@ margin: auto;
   margin: auto;
   background-color: purple;
   display: flex;
-  justify-content: baseline;
+  justify-content: center;
 }
 
 
@@ -491,6 +491,7 @@ margin: auto;
   border-radius: 15px;
   padding: 25px;
   margin: 30px;
+  height: 25%;
 }
 .georgecloon{
   color: white;
