@@ -12,12 +12,11 @@
 <body class="redpage">
  
 <?php require_once '../layouts/header.php'; ?>
-<div class="muse">
-<div class="queen">
-
-    <div class="uprise">
-        <img src="../images/trans.jpg" alt="">
-    </div>
+<div class="muse"> 
+<div class="queen"> 
+        <div class="uprise">
+            <img src="../images/madness.jpg" alt="">
+        </div>
     
         <div class="songtext">
              <pre><b>
@@ -56,8 +55,9 @@
                 </b></p>
                 
         </div>
-    
+        
 </div>
+
 
 </body>
 </div>

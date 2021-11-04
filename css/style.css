@@ -25,6 +25,11 @@ body{
     margin: auto;
     background-color: white;
 }
+.wrapper2{
+  width: 60%;
+  margin: auto;
+  background-color: #317f43;
+}
 .mybaby{
     background-color: orange;
     text-align: center;
@@ -157,6 +162,10 @@ header{
     
     display: flex;
     justify-content: start;
+}
+
+.gclooney{
+  color: white;
 }
 
 #demo {
@@ -408,6 +417,11 @@ margin: auto;
   border: solid 10px;
   display: flex;
   justify-content: center;
+  
+}
+
+.uprisetekst{
+  color: red;
 }
 
 .queen{
@@ -477,4 +491,18 @@ margin: auto;
   border-radius: 15px;
   padding: 25px;
   margin: 30px;
+}
+.georgecloon{
+  color: white;
+}
+.container1 a{
+  color: black;
+  display: flex;
+justify-content: center;
+background-color: grey;
+margin: 10px;
+}
+
+.tekstuprise p{
+  Color: red;
 }

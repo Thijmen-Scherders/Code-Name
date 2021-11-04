@@ -14,6 +14,9 @@
 <?php require_once '../layouts/header.php'; ?>
 
 <body>
+    <div class="div">
+        <h1>Dranken</h1>
+    </div>
 <div class="dranken">
     <a href="warmedranken.php"> Warme dranken</a>
     <a href="frisdranken.php"> Frisdranken</a>

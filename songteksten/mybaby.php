@@ -9,7 +9,7 @@
 
 </head>
 
-<body class="orangepage">
+<body class="greenpage">
 
     
 <?php require_once '../layouts/header.php'; ?>
@@ -17,8 +17,8 @@
     <div class="babyimg">
     <img src="../images/mybaby.jpg" alt="">
     </div>
-    
-    <pre>
+    <div class="tekstuprise">
+    <p>
     Allow me in your tub
     Just allow me in your club
     Allow me to drink from your cup
@@ -53,7 +53,8 @@
     Brothers, keep on rising
     This girl keeps on rising
     Keep on rising up
-</pre>
+    <p>
+    </div>
         
     
 
