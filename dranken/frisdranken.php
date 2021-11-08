@@ -30,6 +30,7 @@
     <img src="../images/fanta.jpg" alt="sinas" width="300px" height="300px">
     <h1>Sinas</h1>
         <p>    <br>    <br>Sinas is in Nederland de benaming voor de doorgaans gele of oranje, meestal koolzuurhoudende frisdrank met sinaasappelsmaak. Zoals de meeste frisdranken bevat sinas veel suiker of in de light-versie kunstmatige zoetstoffen.</p>
+    <br>
     </div>
 
 
