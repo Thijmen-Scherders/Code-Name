@@ -19,6 +19,7 @@
     <img src="../images/cola.jpg" alt="cola" width="300px" height="300px">
         <h1>Cola</h1>
         <p>    <br>    <br>Cola is een koolzuurhoudende frisdrank. Het smaakt zoet (maar is qua pH zuur) en bevat circa 28-32 mg cafeïne per 33 cl. Andere belangrijke ingrediënten zijn vanille, kaneel, karamel en citroen</p>
+            <br><a href="../acteurs/rogermoore.php">Roger Moore</a>
     </div>
     <div class="container1">
     <img src="../images/up.jpg" alt="up" width="300px" height="300px">
