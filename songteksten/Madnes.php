@@ -19,6 +19,10 @@
         </div>
     
         <div class="songtext">
+            <h1>Muse</h1> 
+            <br>
+            <h1>Madness</h1>
+            <br>
              <pre><b>
                 I, I can't get these memories out of my mind
                 And some kind of madness has started to evolve

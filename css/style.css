@@ -430,6 +430,7 @@ margin: auto;
   justify-content: 	center;
   margin-left: 20%;
   margin-right: 20%;
+  border-radius: 15px;
 }
 
 .Muse{
@@ -506,4 +507,8 @@ margin: 10px;
 
 .tekstuprise p{
   Color: red;
+}
+.songtext h1{
+  display: flex;
+justify-content: center;
 }

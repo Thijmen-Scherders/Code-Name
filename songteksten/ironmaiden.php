@@ -12,6 +12,7 @@
 <body class="redpage">
  
 <?php require_once '../layouts/header.php'; ?>
+<div class="queen"> 
 <div class="muse">  
     <div class="uprise">
         <img src="../images/trans.jpg" alt="">
@@ -25,9 +26,10 @@
         
     
 
-
-</body>
+        </div>
 </div>
+</body>
+
 <footer>
 <?php require_once '../layouts/footer.php'; ?>
 </footer>
