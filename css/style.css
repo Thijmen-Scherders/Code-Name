@@ -37,7 +37,7 @@ body{
 .grid-container{
   display: grid;
   grid-auto-flow: dense;
-  grid-template-columns: 25% 25% 25% 25%;
+  grid-template-columns: 25% 25% 25% ;
   grid-gap: 20px;
   
 }

@@ -19,8 +19,8 @@
 
     <div class="contact">
             <h1>Waar zijn wij te vinden</h1><br>
-            <h2>Adres:terhijdenseweg350<br>
-               4826 AA Breda<br>
+            <h2>Adres:Koestraat 1<br>
+                den Bosch<br>
                 Phone:0882097521<br>
                 Email Address:tscherders@kpnmail.nl<br>
             </h2>

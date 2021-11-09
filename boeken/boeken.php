@@ -42,6 +42,5 @@
     
 
 
-<img src="../images/books.png" alt="boeken">
 </body>
 </html>
