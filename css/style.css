@@ -486,7 +486,7 @@ margin: auto;
   margin: auto;
   background-color: orange;
   display: flex;
-  justify-content: baseline;
+  justify-content: center;
 }
 
 
