@@ -20,7 +20,7 @@
             
         <a href="kettingzagen.php"><h4>kettingzagen</h4></a>
         <a href="cirkelzagen.php"><h4>cirkelzagen</h4></a>
-        <a href="hamers.php"><h4>hamer</h4></a>
+        <a href="hamers.php"><h4>hamers</h4></a>
 
 
          

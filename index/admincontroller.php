@@ -10,6 +10,10 @@
 <?php require_once '../layouts/header.php'; ?>
 <body>
 
+<form action="../backend/editcontroller.php" method="POST">
+    <input type="hidden" name="id" value="<?php echo $id; ?>">
+    <input type="hidden" name="action" value="update">
+
 <?php
     require_once '../backend/conn.php';
     $query = "SELECT * FROM boeken";
@@ -28,7 +32,7 @@
                 <textarea name="description" id="description" cols="30" rows="10"></textarea>
                 <p>Prijs:<?php echo $boek['prijs']; ?>
                 <input type="text" id="price" name="price">
-                <br>
+                <br>    
                 <input type="submit">
             </div>  
         
