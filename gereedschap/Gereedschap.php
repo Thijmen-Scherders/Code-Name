@@ -18,8 +18,7 @@
     <div class="gereedschap">
         
             
-        <a href="kettingzagen.php"><h4>kettingzagen</h4></a>
-        <a href="cirkelzagen.php"><h4>cirkelzagen</h4></a>
+        <a href="zagen.php"><h4>zagen</h4></a>
         <a href="hamers.php"><h4>hamers</h4></a>
         <a href="schroevendraaier.php"><h4>schroevendraaiers</h4></a>
 
