@@ -76,9 +76,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
    }
 }
 ?>
-<form action = "<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>" method = post>
-  <input type = "submit" name = "button" value = "vote" >
-</form>
     
 </div>
 </div>
