@@ -5,7 +5,7 @@
 </head>
 <footer>
 <div class="contact2">
-    @copyright| anwar | mick | thijmen | noor 
+    @copyright| Anwar | Mick | Thijmen | Noor 
 </div>
 
 
