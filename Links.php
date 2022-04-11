@@ -24,7 +24,8 @@
         </div>
         <div class="nlfilm">
             <img src="images/nlfilm.png" alt="Foto filmnl">
-            <a href="https://www.film.nl/">Film.nl</a>
+           
+
         </div>
     </div>
 </body>
